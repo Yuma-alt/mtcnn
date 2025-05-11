@@ -1,0 +1,6 @@
+fastapi
+uvicorn[standard]
+celery[redis]
+sqlalchemy
+psycopg2-binary      # PostgreSQL を使う場合
+python-dotenv
